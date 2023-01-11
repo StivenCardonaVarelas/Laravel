@@ -1,14 +1,14 @@
+<x-layouts.app 
+    title="Home" 
+        metaDescription="Home meta description"
+        
+        >
+      
+        
+            <h1>Inicio</h1>
+</x-layouts.app>
 
-@section('tiltle','Home')
-@section('meta-description','Home meta-description ')
 
-@extends('layouts.app')
-
-
-
-@section('content')
-<h1>Inicio</h1>
-@endsection
 
 
     
